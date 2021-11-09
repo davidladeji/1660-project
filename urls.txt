@@ -2,7 +2,7 @@ The urls are as follows:
 
 1. Apache Hadoop -> https://hub.docker.com/r/apache/hadoop-runner
 
-2. Apache Spark -> https://hub.docker.com/r/sequenceiq/spark
+2. Apache Spark -> https://hub.docker.com/r/bitnami/spark
 
 3. Jupyter Notebook -> https://hub.docker.com/r/jupyter/scipy-notebook
 
