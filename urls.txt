@@ -1,6 +1,6 @@
 The urls are as follows:
 
-1. Apache Hadoop -> https://hub.docker.com/r/apache/hadoop-runner
+1. Apache Hadoop -> https://hub.docker.com/r/singularities/hadoop
 
 2. Apache Spark -> https://hub.docker.com/r/bitnami/spark
 
