@@ -1,9 +1,9 @@
 The urls are as follows:
 
-1. Apache Hadoop -> https://hub.docker.com/r/apache/hadoop-runner
+1. Apache Hadoop -> https://hub.docker.com/r/bde2020/hadoop-namenode & https://hub.docker.com/r/bde2020/hadoop-datanode
 
-2. Apache Spark -> https://hub.docker.com/r/sequenceiq/spark
+2. Apache Spark -> https://hub.docker.com/r/bde2020/spark-master & https://hub.docker.com/r/bde2020/spark-worker
 
 3. Jupyter Notebook -> https://hub.docker.com/r/jupyter/scipy-notebook
 
-4. SonarQube and SonarScanner -> https://hub.docker.com/r/joebaird/sonarscanner/tags
+4. SonarQube and SonarScanner -> https://hub.docker.com/_/sonarqube

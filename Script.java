@@ -57,18 +57,18 @@ public class Script
 	}
 
     public static void handleHadoop(){
-        System.out.println("Hadoop running");
+        System.out.println("Use url '34.136.238.63:9870' to access Hadoop");
     }
 
     public static void handleSpark(){
-        System.out.println("Spark running");
+        System.out.println("Use url '34.72.213.50:8080' to access Spark");
     }
 
     public static void handleJupyter(){
-        System.out.println("Jupyter running");
+        System.out.println("Use url '35.225.234.31:8888' to access Jupyter");
     }
 
     public static void handleSonar(){
-        System.out.println("Sonar running");
+        System.out.println("Use url '35.184.185.134:9000' to access SonarQube");
     }
 }
