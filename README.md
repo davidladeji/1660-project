@@ -21,7 +21,7 @@ To run this project
 Things to note about my project
 
 1. Though I did deploy the driver code to the Kubernetes cluster, I ran into some issues with getting it to be error free
-2. Since this is a terminal app, I assumed you'd need to pull the image to run this code
+2. Since this is a terminal app, I assumed you'd need to pull the image to run this code, however the Kubernetes cluster needs to be running while the application is being used
 3. The application's Spark and Hadoop urls lead to masters that can't detect their workers. There are worker node services for each but the master's can't connect to them or vice-versa
 4. The Jupyter notebook option of the application, sends you to a URL requesting for a token by Jupyter. However, there's no way to get to the notebook application from this point
 This is because I couldn't figure out the right enviroment variable to pass into the workload. I tried a token but since there can be no predefined token, this doesn't work
