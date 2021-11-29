@@ -14,7 +14,7 @@ Steps to run docker images in Kubernetes (Checkpoint)
 To run this project
 
 1. Pull the driver image from docker hub. (docker pull dladeji2/project-driver)
-2. Run this image in a container with the -i (interactive) tag
+2. Run this image in a container with the -i (interactive) tag (docker run -i dladeji2/project-driver)
 3. Use the application and paste any URL that is presented as a result from user's choice of application to run
 
 
